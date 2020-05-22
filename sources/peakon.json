@@ -1,0 +1,9 @@
+{
+  "id": "peakon",
+  "name": "Peakon",
+  "categories": ["ANALYTICS"],
+  "organization": "Peakon_ApS",
+  "iconUrl": "https://peakon.com/wp-content/themes/peakon/assets/images/logo-v2@2x.png",
+  "sourceUrl": "https://peakon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
